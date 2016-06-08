@@ -1,3 +1,3 @@
 # hello-word
 
-initilly no comment
+initially no comment
